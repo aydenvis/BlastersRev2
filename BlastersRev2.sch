@@ -30,7 +30,7 @@ U 1 1 5D07221F
 P 5700 2650
 F 0 "MX2" H 5732 2873 60  0000 C CNN
 F 1 "MX-NoLED" H 5732 2799 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 5075 2625 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 5075 2625 60  0001 C CNN
 F 3 "" H 5075 2625 60  0001 C CNN
 	1    5700 2650
 	1    0    0    -1  
@@ -41,7 +41,7 @@ U 1 1 5D0722B3
 P 5500 2950
 F 0 "D2" V 5546 2882 50  0000 R CNN
 F 1 "D_Small" V 5455 2882 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 5500 2950 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5500 2950 50  0001 C CNN
 F 3 "~" V 5500 2950 50  0001 C CNN
 	1    5500 2950
 	0    -1   -1   0   
@@ -56,7 +56,7 @@ U 1 1 5D0724ED
 P 6250 2650
 F 0 "MX6" H 6282 2873 60  0000 C CNN
 F 1 "MX-NoLED" H 6282 2799 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 5625 2625 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 5625 2625 60  0001 C CNN
 F 3 "" H 5625 2625 60  0001 C CNN
 	1    6250 2650
 	1    0    0    -1  
@@ -67,7 +67,7 @@ U 1 1 5D0724F4
 P 6050 2950
 F 0 "D6" V 6096 2882 50  0000 R CNN
 F 1 "D_Small" V 6005 2882 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 6050 2950 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6050 2950 50  0001 C CNN
 F 3 "~" V 6050 2950 50  0001 C CNN
 	1    6050 2950
 	0    -1   -1   0   
@@ -82,7 +82,7 @@ U 1 1 5D0725C5
 P 6800 2650
 F 0 "MX10" H 6832 2873 60  0000 C CNN
 F 1 "MX-NoLED" H 6832 2799 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 6175 2625 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 6175 2625 60  0001 C CNN
 F 3 "" H 6175 2625 60  0001 C CNN
 	1    6800 2650
 	1    0    0    -1  
@@ -93,7 +93,7 @@ U 1 1 5D0725CC
 P 6600 2950
 F 0 "D10" V 6646 2882 50  0000 R CNN
 F 1 "D_Small" V 6555 2882 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 6600 2950 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6600 2950 50  0001 C CNN
 F 3 "~" V 6600 2950 50  0001 C CNN
 	1    6600 2950
 	0    -1   -1   0   
@@ -108,7 +108,7 @@ U 1 1 5D0725D5
 P 7350 2650
 F 0 "MX14" H 7382 2873 60  0000 C CNN
 F 1 "MX-NoLED" H 7382 2799 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 6725 2625 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 6725 2625 60  0001 C CNN
 F 3 "" H 6725 2625 60  0001 C CNN
 	1    7350 2650
 	1    0    0    -1  
@@ -119,7 +119,7 @@ U 1 1 5D0725DC
 P 7150 2950
 F 0 "D14" V 7196 2882 50  0000 R CNN
 F 1 "D_Small" V 7105 2882 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 7150 2950 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7150 2950 50  0001 C CNN
 F 3 "~" V 7150 2950 50  0001 C CNN
 	1    7150 2950
 	0    -1   -1   0   
@@ -134,7 +134,7 @@ U 1 1 5D072747
 P 7900 2650
 F 0 "MX18" H 7932 2873 60  0000 C CNN
 F 1 "MX-NoLED" H 7932 2799 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 7275 2625 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 7275 2625 60  0001 C CNN
 F 3 "" H 7275 2625 60  0001 C CNN
 	1    7900 2650
 	1    0    0    -1  
@@ -145,7 +145,7 @@ U 1 1 5D07274E
 P 7700 2950
 F 0 "D18" V 7746 2882 50  0000 R CNN
 F 1 "D_Small" V 7655 2882 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 7700 2950 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7700 2950 50  0001 C CNN
 F 3 "~" V 7700 2950 50  0001 C CNN
 	1    7700 2950
 	0    -1   -1   0   
@@ -160,7 +160,7 @@ U 1 1 5D072757
 P 8450 2650
 F 0 "MX22" H 8482 2873 60  0000 C CNN
 F 1 "MX-NoLED" H 8482 2799 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 7825 2625 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 7825 2625 60  0001 C CNN
 F 3 "" H 7825 2625 60  0001 C CNN
 	1    8450 2650
 	1    0    0    -1  
@@ -171,7 +171,7 @@ U 1 1 5D07275E
 P 8250 2950
 F 0 "D22" V 8296 2882 50  0000 R CNN
 F 1 "D_Small" V 8205 2882 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 8250 2950 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8250 2950 50  0001 C CNN
 F 3 "~" V 8250 2950 50  0001 C CNN
 	1    8250 2950
 	0    -1   -1   0   
@@ -186,7 +186,7 @@ U 1 1 5D072767
 P 9000 2650
 F 0 "MX27" H 9032 2873 60  0000 C CNN
 F 1 "MX-NoLED" H 9032 2799 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 8375 2625 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 8375 2625 60  0001 C CNN
 F 3 "" H 8375 2625 60  0001 C CNN
 	1    9000 2650
 	1    0    0    -1  
@@ -197,7 +197,7 @@ U 1 1 5D07276E
 P 8800 2950
 F 0 "D27" V 8846 2882 50  0000 R CNN
 F 1 "D_Small" V 8755 2882 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 8800 2950 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8800 2950 50  0001 C CNN
 F 3 "~" V 8800 2950 50  0001 C CNN
 	1    8800 2950
 	0    -1   -1   0   
@@ -212,7 +212,7 @@ U 1 1 5D072E8F
 P 5700 1900
 F 0 "MX1" H 5732 2123 60  0000 C CNN
 F 1 "MX-NoLED" H 5732 2049 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 5075 1875 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 5075 1875 60  0001 C CNN
 F 3 "" H 5075 1875 60  0001 C CNN
 	1    5700 1900
 	1    0    0    -1  
@@ -223,7 +223,7 @@ U 1 1 5D072E96
 P 5500 2200
 F 0 "D1" V 5546 2132 50  0000 R CNN
 F 1 "D_Small" V 5455 2132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 5500 2200 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5500 2200 50  0001 C CNN
 F 3 "~" V 5500 2200 50  0001 C CNN
 	1    5500 2200
 	0    -1   -1   0   
@@ -238,7 +238,7 @@ U 1 1 5D072E9F
 P 6250 1900
 F 0 "MX5" H 6282 2123 60  0000 C CNN
 F 1 "MX-NoLED" H 6282 2049 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 5625 1875 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 5625 1875 60  0001 C CNN
 F 3 "" H 5625 1875 60  0001 C CNN
 	1    6250 1900
 	1    0    0    -1  
@@ -249,7 +249,7 @@ U 1 1 5D072EA6
 P 6050 2200
 F 0 "D5" V 6096 2132 50  0000 R CNN
 F 1 "D_Small" V 6005 2132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 6050 2200 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6050 2200 50  0001 C CNN
 F 3 "~" V 6050 2200 50  0001 C CNN
 	1    6050 2200
 	0    -1   -1   0   
@@ -264,7 +264,7 @@ U 1 1 5D072EAF
 P 6800 1900
 F 0 "MX9" H 6832 2123 60  0000 C CNN
 F 1 "MX-NoLED" H 6832 2049 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 6175 1875 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 6175 1875 60  0001 C CNN
 F 3 "" H 6175 1875 60  0001 C CNN
 	1    6800 1900
 	1    0    0    -1  
@@ -275,7 +275,7 @@ U 1 1 5D072EB6
 P 6600 2200
 F 0 "D9" V 6646 2132 50  0000 R CNN
 F 1 "D_Small" V 6555 2132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 6600 2200 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6600 2200 50  0001 C CNN
 F 3 "~" V 6600 2200 50  0001 C CNN
 	1    6600 2200
 	0    -1   -1   0   
@@ -290,7 +290,7 @@ U 1 1 5D072EBF
 P 7350 1900
 F 0 "MX13" H 7382 2123 60  0000 C CNN
 F 1 "MX-NoLED" H 7382 2049 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 6725 1875 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 6725 1875 60  0001 C CNN
 F 3 "" H 6725 1875 60  0001 C CNN
 	1    7350 1900
 	1    0    0    -1  
@@ -301,7 +301,7 @@ U 1 1 5D072EC6
 P 7150 2200
 F 0 "D13" V 7196 2132 50  0000 R CNN
 F 1 "D_Small" V 7105 2132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 7150 2200 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7150 2200 50  0001 C CNN
 F 3 "~" V 7150 2200 50  0001 C CNN
 	1    7150 2200
 	0    -1   -1   0   
@@ -316,7 +316,7 @@ U 1 1 5D072ECF
 P 7900 1900
 F 0 "MX17" H 7932 2123 60  0000 C CNN
 F 1 "MX-NoLED" H 7932 2049 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 7275 1875 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 7275 1875 60  0001 C CNN
 F 3 "" H 7275 1875 60  0001 C CNN
 	1    7900 1900
 	1    0    0    -1  
@@ -327,7 +327,7 @@ U 1 1 5D072ED6
 P 7700 2200
 F 0 "D17" V 7746 2132 50  0000 R CNN
 F 1 "D_Small" V 7655 2132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 7700 2200 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7700 2200 50  0001 C CNN
 F 3 "~" V 7700 2200 50  0001 C CNN
 	1    7700 2200
 	0    -1   -1   0   
@@ -342,7 +342,7 @@ U 1 1 5D072EDF
 P 8450 1900
 F 0 "MX21" H 8482 2123 60  0000 C CNN
 F 1 "MX-NoLED" H 8482 2049 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 7825 1875 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 7825 1875 60  0001 C CNN
 F 3 "" H 7825 1875 60  0001 C CNN
 	1    8450 1900
 	1    0    0    -1  
@@ -353,7 +353,7 @@ U 1 1 5D072EE6
 P 8250 2200
 F 0 "D21" V 8296 2132 50  0000 R CNN
 F 1 "D_Small" V 8205 2132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 8250 2200 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8250 2200 50  0001 C CNN
 F 3 "~" V 8250 2200 50  0001 C CNN
 	1    8250 2200
 	0    -1   -1   0   
@@ -368,7 +368,7 @@ U 1 1 5D072EEF
 P 9000 1900
 F 0 "MX26" H 9032 2123 60  0000 C CNN
 F 1 "MX-NoLED" H 9032 2049 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 8375 1875 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 8375 1875 60  0001 C CNN
 F 3 "" H 8375 1875 60  0001 C CNN
 	1    9000 1900
 	1    0    0    -1  
@@ -379,7 +379,7 @@ U 1 1 5D072EF6
 P 8800 2200
 F 0 "D26" V 8846 2132 50  0000 R CNN
 F 1 "D_Small" V 8755 2132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 8800 2200 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8800 2200 50  0001 C CNN
 F 3 "~" V 8800 2200 50  0001 C CNN
 	1    8800 2200
 	0    -1   -1   0   
@@ -394,7 +394,7 @@ U 1 1 5D07558C
 P 5700 4150
 F 0 "MX4" H 5732 4373 60  0000 C CNN
 F 1 "MX-NoLED" H 5732 4299 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 5075 4125 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 5075 4125 60  0001 C CNN
 F 3 "" H 5075 4125 60  0001 C CNN
 	1    5700 4150
 	1    0    0    -1  
@@ -405,7 +405,7 @@ U 1 1 5D075593
 P 5500 4450
 F 0 "D4" V 5546 4382 50  0000 R CNN
 F 1 "D_Small" V 5455 4382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 5500 4450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5500 4450 50  0001 C CNN
 F 3 "~" V 5500 4450 50  0001 C CNN
 	1    5500 4450
 	0    -1   -1   0   
@@ -420,7 +420,7 @@ U 1 1 5D07559C
 P 6250 4150
 F 0 "MX8" H 6282 4373 60  0000 C CNN
 F 1 "MX-NoLED" H 6282 4299 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 5625 4125 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 5625 4125 60  0001 C CNN
 F 3 "" H 5625 4125 60  0001 C CNN
 	1    6250 4150
 	1    0    0    -1  
@@ -431,7 +431,7 @@ U 1 1 5D0755A3
 P 6050 4450
 F 0 "D8" V 6096 4382 50  0000 R CNN
 F 1 "D_Small" V 6005 4382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 6050 4450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6050 4450 50  0001 C CNN
 F 3 "~" V 6050 4450 50  0001 C CNN
 	1    6050 4450
 	0    -1   -1   0   
@@ -446,7 +446,7 @@ U 1 1 5D0755AC
 P 6800 4150
 F 0 "MX12" H 6832 4373 60  0000 C CNN
 F 1 "MX-NoLED" H 6832 4299 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 6175 4125 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 6175 4125 60  0001 C CNN
 F 3 "" H 6175 4125 60  0001 C CNN
 	1    6800 4150
 	1    0    0    -1  
@@ -457,7 +457,7 @@ U 1 1 5D0755B3
 P 6600 4450
 F 0 "D12" V 6646 4382 50  0000 R CNN
 F 1 "D_Small" V 6555 4382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 6600 4450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6600 4450 50  0001 C CNN
 F 3 "~" V 6600 4450 50  0001 C CNN
 	1    6600 4450
 	0    -1   -1   0   
@@ -472,7 +472,7 @@ U 1 1 5D0755BC
 P 7350 4150
 F 0 "MX16" H 7382 4373 60  0000 C CNN
 F 1 "MX-NoLED" H 7382 4299 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 6725 4125 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 6725 4125 60  0001 C CNN
 F 3 "" H 6725 4125 60  0001 C CNN
 	1    7350 4150
 	1    0    0    -1  
@@ -483,7 +483,7 @@ U 1 1 5D0755C3
 P 7150 4450
 F 0 "D16" V 7196 4382 50  0000 R CNN
 F 1 "D_Small" V 7105 4382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 7150 4450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7150 4450 50  0001 C CNN
 F 3 "~" V 7150 4450 50  0001 C CNN
 	1    7150 4450
 	0    -1   -1   0   
@@ -498,7 +498,7 @@ U 1 1 5D0755CC
 P 7900 4150
 F 0 "MX20" H 7932 4373 60  0000 C CNN
 F 1 "MX-NoLED" H 7932 4299 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 7275 4125 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 7275 4125 60  0001 C CNN
 F 3 "" H 7275 4125 60  0001 C CNN
 	1    7900 4150
 	1    0    0    -1  
@@ -509,7 +509,7 @@ U 1 1 5D0755D3
 P 7700 4450
 F 0 "D20" V 7746 4382 50  0000 R CNN
 F 1 "D_Small" V 7655 4382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 7700 4450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7700 4450 50  0001 C CNN
 F 3 "~" V 7700 4450 50  0001 C CNN
 	1    7700 4450
 	0    -1   -1   0   
@@ -524,7 +524,7 @@ U 1 1 5D0755DC
 P 8450 4150
 F 0 "MX24" H 8482 4373 60  0000 C CNN
 F 1 "MX-NoLED" H 8482 4299 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 7825 4125 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 7825 4125 60  0001 C CNN
 F 3 "" H 7825 4125 60  0001 C CNN
 	1    8450 4150
 	1    0    0    -1  
@@ -535,7 +535,7 @@ U 1 1 5D0755E3
 P 8250 4450
 F 0 "D24" V 8296 4382 50  0000 R CNN
 F 1 "D_Small" V 8205 4382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 8250 4450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8250 4450 50  0001 C CNN
 F 3 "~" V 8250 4450 50  0001 C CNN
 	1    8250 4450
 	0    -1   -1   0   
@@ -550,7 +550,7 @@ U 1 1 5D0755EC
 P 9000 4150
 F 0 "MX29" H 9032 4373 60  0000 C CNN
 F 1 "MX-NoLED" H 9032 4299 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 8375 4125 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 8375 4125 60  0001 C CNN
 F 3 "" H 8375 4125 60  0001 C CNN
 	1    9000 4150
 	1    0    0    -1  
@@ -561,7 +561,7 @@ U 1 1 5D0755F3
 P 8800 4450
 F 0 "D29" V 8846 4382 50  0000 R CNN
 F 1 "D_Small" V 8755 4382 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 8800 4450 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8800 4450 50  0001 C CNN
 F 3 "~" V 8800 4450 50  0001 C CNN
 	1    8800 4450
 	0    -1   -1   0   
@@ -576,7 +576,7 @@ U 1 1 5D0755FC
 P 5700 3400
 F 0 "MX3" H 5732 3623 60  0000 C CNN
 F 1 "MX-NoLED" H 5732 3549 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 5075 3375 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 5075 3375 60  0001 C CNN
 F 3 "" H 5075 3375 60  0001 C CNN
 	1    5700 3400
 	1    0    0    -1  
@@ -587,7 +587,7 @@ U 1 1 5D075603
 P 5500 3700
 F 0 "D3" V 5546 3632 50  0000 R CNN
 F 1 "D_Small" V 5455 3632 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 5500 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 5500 3700 50  0001 C CNN
 F 3 "~" V 5500 3700 50  0001 C CNN
 	1    5500 3700
 	0    -1   -1   0   
@@ -602,7 +602,7 @@ U 1 1 5D07560C
 P 6250 3400
 F 0 "MX7" H 6282 3623 60  0000 C CNN
 F 1 "MX-NoLED" H 6282 3549 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 5625 3375 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 5625 3375 60  0001 C CNN
 F 3 "" H 5625 3375 60  0001 C CNN
 	1    6250 3400
 	1    0    0    -1  
@@ -613,7 +613,7 @@ U 1 1 5D075613
 P 6050 3700
 F 0 "D7" V 6096 3632 50  0000 R CNN
 F 1 "D_Small" V 6005 3632 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 6050 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6050 3700 50  0001 C CNN
 F 3 "~" V 6050 3700 50  0001 C CNN
 	1    6050 3700
 	0    -1   -1   0   
@@ -628,7 +628,7 @@ U 1 1 5D07561C
 P 6800 3400
 F 0 "MX11" H 6832 3623 60  0000 C CNN
 F 1 "MX-NoLED" H 6832 3549 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 6175 3375 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 6175 3375 60  0001 C CNN
 F 3 "" H 6175 3375 60  0001 C CNN
 	1    6800 3400
 	1    0    0    -1  
@@ -639,7 +639,7 @@ U 1 1 5D075623
 P 6600 3700
 F 0 "D11" V 6646 3632 50  0000 R CNN
 F 1 "D_Small" V 6555 3632 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 6600 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 6600 3700 50  0001 C CNN
 F 3 "~" V 6600 3700 50  0001 C CNN
 	1    6600 3700
 	0    -1   -1   0   
@@ -654,7 +654,7 @@ U 1 1 5D07562C
 P 7350 3400
 F 0 "MX15" H 7382 3623 60  0000 C CNN
 F 1 "MX-NoLED" H 7382 3549 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 6725 3375 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 6725 3375 60  0001 C CNN
 F 3 "" H 6725 3375 60  0001 C CNN
 	1    7350 3400
 	1    0    0    -1  
@@ -665,7 +665,7 @@ U 1 1 5D075633
 P 7150 3700
 F 0 "D15" V 7196 3632 50  0000 R CNN
 F 1 "D_Small" V 7105 3632 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 7150 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7150 3700 50  0001 C CNN
 F 3 "~" V 7150 3700 50  0001 C CNN
 	1    7150 3700
 	0    -1   -1   0   
@@ -680,7 +680,7 @@ U 1 1 5D07563C
 P 7900 3400
 F 0 "MX19" H 7932 3623 60  0000 C CNN
 F 1 "MX-NoLED" H 7932 3549 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 7275 3375 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 7275 3375 60  0001 C CNN
 F 3 "" H 7275 3375 60  0001 C CNN
 	1    7900 3400
 	1    0    0    -1  
@@ -691,7 +691,7 @@ U 1 1 5D075643
 P 7700 3700
 F 0 "D19" V 7746 3632 50  0000 R CNN
 F 1 "D_Small" V 7655 3632 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 7700 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 7700 3700 50  0001 C CNN
 F 3 "~" V 7700 3700 50  0001 C CNN
 	1    7700 3700
 	0    -1   -1   0   
@@ -706,7 +706,7 @@ U 1 1 5D07564C
 P 8450 3400
 F 0 "MX23" H 8482 3623 60  0000 C CNN
 F 1 "MX-NoLED" H 8482 3549 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 7825 3375 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 7825 3375 60  0001 C CNN
 F 3 "" H 7825 3375 60  0001 C CNN
 	1    8450 3400
 	1    0    0    -1  
@@ -717,7 +717,7 @@ U 1 1 5D075653
 P 8250 3700
 F 0 "D23" V 8296 3632 50  0000 R CNN
 F 1 "D_Small" V 8205 3632 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 8250 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8250 3700 50  0001 C CNN
 F 3 "~" V 8250 3700 50  0001 C CNN
 	1    8250 3700
 	0    -1   -1   0   
@@ -732,7 +732,7 @@ U 1 1 5D07565C
 P 9000 3400
 F 0 "MX28" H 9032 3623 60  0000 C CNN
 F 1 "MX-NoLED" H 9032 3549 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 8375 3375 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 8375 3375 60  0001 C CNN
 F 3 "" H 8375 3375 60  0001 C CNN
 	1    9000 3400
 	1    0    0    -1  
@@ -743,7 +743,7 @@ U 1 1 5D075663
 P 8800 3700
 F 0 "D28" V 8846 3632 50  0000 R CNN
 F 1 "D_Small" V 8755 3632 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 8800 3700 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8800 3700 50  0001 C CNN
 F 3 "~" V 8800 3700 50  0001 C CNN
 	1    8800 3700
 	0    -1   -1   0   
@@ -758,7 +758,7 @@ U 1 1 5D077B6C
 P 8450 4900
 F 0 "MX25" H 8482 5123 60  0000 C CNN
 F 1 "MX-NoLED" H 8482 5049 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 7825 4875 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 7825 4875 60  0001 C CNN
 F 3 "" H 7825 4875 60  0001 C CNN
 	1    8450 4900
 	1    0    0    -1  
@@ -769,7 +769,7 @@ U 1 1 5D077B73
 P 8250 5200
 F 0 "D25" V 8296 5132 50  0000 R CNN
 F 1 "D_Small" V 8205 5132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 8250 5200 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8250 5200 50  0001 C CNN
 F 3 "~" V 8250 5200 50  0001 C CNN
 	1    8250 5200
 	0    -1   -1   0   
@@ -784,7 +784,7 @@ U 1 1 5D077B7C
 P 9000 4900
 F 0 "MX30" H 9032 5123 60  0000 C CNN
 F 1 "MX-NoLED" H 9032 5049 20  0000 C CNN
-F 2 "keyswitches:MX_reversible" H 8375 4875 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole" H 8375 4875 60  0001 C CNN
 F 3 "" H 8375 4875 60  0001 C CNN
 	1    9000 4900
 	1    0    0    -1  
@@ -795,7 +795,7 @@ U 1 1 5D077B83
 P 8800 5200
 F 0 "D30" V 8846 5132 50  0000 R CNN
 F 1 "D_Small" V 8755 5132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" V 8800 5200 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8800 5200 50  0001 C CNN
 F 3 "~" V 8800 5200 50  0001 C CNN
 	1    8800 5200
 	0    -1   -1   0   
