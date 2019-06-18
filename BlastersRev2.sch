@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:BlastersRev2-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -996,4 +997,103 @@ Text GLabel 8600 1500 1    50   Input ~ 0
 Col5
 Text GLabel 9150 1500 1    50   Input ~ 0
 Col6
+$Comp
+L Connector:AudioJack4_Ground J1
+U 1 1 5D080F1A
+P 2850 3900
+F 0 "J1" H 2816 4242 50  0000 C CNN
+F 1 "AudioJack4_Ground" H 2816 4151 50  0000 C CNN
+F 2 "Keebio-Parts:TRRS-PJ-320A-dual" H 2850 3900 50  0001 C CNN
+F 3 "~" H 2850 3900 50  0001 C CNN
+	1    2850 3900
+	1    0    0    -1  
+$EndComp
+Text GLabel 3050 3800 2    50   Input ~ 0
+CommGnd
+Text GLabel 3050 4100 2    50   Input ~ 0
+CommVcc
+Text GLabel 3050 3900 2    50   Input ~ 0
+Comm
+Text GLabel 3050 4000 2    50   Input ~ 0
+RGBTrrs
+Text GLabel 3800 2000 2    50   Input ~ 0
+CommGnd
+Text GLabel 3800 2300 2    50   Input ~ 0
+Comm
+Text GLabel 1850 2650 3    50   Input ~ 0
+RGBJumper
+Text GLabel 4350 2250 3    50   Input ~ 0
+CommVcc
+Text GLabel 4350 2150 1    50   Input ~ 0
+RGBVcc
+Wire Wire Line
+	3800 2200 4350 2200
+Wire Wire Line
+	4350 2150 4350 2200
+Connection ~ 4350 2200
+Wire Wire Line
+	4350 2200 4350 2250
+Text GLabel 2400 2100 0    50   Input ~ 0
+RGBGnd
+Text GLabel 1850 2550 1    50   Input ~ 0
+RGBCommBreakout
+Wire Wire Line
+	1850 2550 1850 2600
+Wire Wire Line
+	1850 2600 2400 2600
+Connection ~ 1850 2600
+Wire Wire Line
+	1850 2600 1850 2650
+$Comp
+L Mechanical:MountingHole_Pad MH1
+U 1 1 5D09799C
+P 4050 3800
+F 0 "MH1" H 4150 3851 50  0000 L CNN
+F 1 "MountingHole_Pad" H 4150 3760 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 4050 3800 50  0001 C CNN
+F 3 "~" H 4050 3800 50  0001 C CNN
+	1    4050 3800
+	1    0    0    -1  
+$EndComp
+Text GLabel 4050 3900 3    50   Input ~ 0
+RGBCommBreakout
+$Comp
+L Device:Jumper JP1
+U 1 1 5D097F50
+P 3200 5050
+F 0 "JP1" H 3200 5314 50  0000 C CNN
+F 1 "Jumper" H 3200 5223 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 3200 5050 50  0001 C CNN
+F 3 "~" H 3200 5050 50  0001 C CNN
+	1    3200 5050
+	1    0    0    -1  
+$EndComp
+Text GLabel 2900 5050 0    50   Input ~ 0
+RGBJumper
+Text GLabel 3500 5050 2    50   Input ~ 0
+RGBTrrs
+Text GLabel 2400 2700 0    50   Input ~ 0
+Row0
+Text GLabel 3800 2400 2    50   Input ~ 0
+Col3
+Text GLabel 2400 2500 0    50   Input ~ 0
+Col4
+Text GLabel 2400 2300 0    50   Input ~ 0
+Col6
+Text GLabel 2400 2400 0    50   Input ~ 0
+Col5
+Text GLabel 3800 2700 2    50   Input ~ 0
+Col2
+Text GLabel 3800 2600 2    50   Input ~ 0
+Col1
+Text GLabel 3800 2500 2    50   Input ~ 0
+Col0
+Text GLabel 3800 2800 2    50   Input ~ 0
+Row1
+Text GLabel 3800 2900 2    50   Input ~ 0
+Row2
+Text GLabel 3800 3000 2    50   Input ~ 0
+Row3
+Text GLabel 2400 3000 0    50   Input ~ 0
+Row4
 $EndSCHEMATC

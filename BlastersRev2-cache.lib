@@ -1,6 +1,27 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# Connector:AudioJack4_Ground
+#
+DEF Connector:AudioJack4_Ground J 0 40 Y Y 1 F N
+F0 "J" 0 350 50 H V C CNN
+F1 "Connector:AudioJack4_Ground" 0 250 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -250 -300 -280 -200 0 1 0 F
+S 100 -325 -255 175 0 1 10 f
+P 4 0 1 10 0 -200 25 -225 50 -200 100 -200 N
+P 5 0 1 10 -225 -200 -200 -225 -175 -200 -175 100 100 100 N
+P 5 0 1 10 -75 -200 -50 -225 -25 -200 -25 -100 100 -100 N
+P 5 0 1 10 100 0 -100 0 -100 -200 -125 -225 -150 -200 N
+X ~ R1 200 -100 100 L 50 50 1 1 P
+X ~ R2 200 0 100 L 50 50 1 1 P
+X ~ S 200 100 100 L 50 50 1 1 P
+X ~ T 200 -200 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Device:D_Small
 #
 DEF Device:D_Small D 0 10 N N 1 F N
@@ -23,6 +44,22 @@ X A 2 100 0 70 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Device:Jumper
+#
+DEF Device:Jumper JP 0 30 Y N 1 F N
+F0 "JP" 0 150 50 H V C CNN
+F1 "Device:Jumper" 0 -80 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+A 0 -26 125 1426 373 0 1 0 N -98 50 99 50
+C -100 0 35 0 1 0 N
+C 100 0 35 0 1 0 N
+X 1 1 -300 0 165 R 50 50 0 1 P
+X 2 2 300 0 165 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
 # MX_Alps_Hybrid:MX-NoLED
 #
 DEF MX_Alps_Hybrid:MX-NoLED MX 0 40 Y Y 1 F N
@@ -38,6 +75,22 @@ P 2 0 0 5 -50 -50 -50 50 N
 P 3 0 0 5 50 50 0 50 -50 75 N
 X COL 1 150 50 100 L 0 0 1 1 P
 X ROW 2 -50 -150 100 U 0 0 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Mechanical:MountingHole_Pad
+#
+DEF Mechanical:MountingHole_Pad MH 0 40 N N 1 F N
+F0 "MH" 0 250 50 H V C CNN
+F1 "Mechanical:MountingHole_Pad" 0 175 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ MountingHole*Pad*
+$ENDFPLIST
+DRAW
+C 0 50 50 0 1 50 N
+X 1 1 0 -100 100 U 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
