@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Connector:AudioJack4_Ground
+# Connector_AudioJack4_Ground
 #
-DEF Connector:AudioJack4_Ground J 0 40 Y Y 1 F N
+DEF Connector_AudioJack4_Ground J 0 40 Y Y 1 F N
 F0 "J" 0 350 50 H V C CNN
-F1 "Connector:AudioJack4_Ground" 0 250 50 H V C CNN
+F1 "Connector_AudioJack4_Ground" 0 250 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -22,11 +22,11 @@ X ~ T 200 -200 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Device:D_Small
+# Device_D_Small
 #
-DEF Device:D_Small D 0 10 N N 1 F N
+DEF Device_D_Small D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
-F1 "Device:D_Small" -150 -80 50 H V L CNN
+F1 "Device_D_Small" -150 -80 50 H V L CNN
 F2 "" 0 0 50 V I C CNN
 F3 "" 0 0 50 V I C CNN
 $FPLIST
@@ -44,11 +44,11 @@ X A 2 100 0 70 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Device:Jumper
+# Device_Jumper
 #
-DEF Device:Jumper JP 0 30 Y N 1 F N
+DEF Device_Jumper JP 0 30 Y N 1 F N
 F0 "JP" 0 150 50 H V C CNN
-F1 "Device:Jumper" 0 -80 50 H V C CNN
+F1 "Device_Jumper" 0 -80 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -60,11 +60,11 @@ X 2 2 300 0 165 L 50 50 0 1 P
 ENDDRAW
 ENDDEF
 #
-# MX_Alps_Hybrid:MX-NoLED
+# MX_Alps_Hybrid_MX-NoLED
 #
-DEF MX_Alps_Hybrid:MX-NoLED MX 0 40 Y Y 1 F N
+DEF MX_Alps_Hybrid_MX-NoLED MX 0 40 Y Y 1 F N
 F0 "MX" -25 150 60 H V C CNN
-F1 "MX_Alps_Hybrid:MX-NoLED" -25 50 20 H V C CNN
+F1 "MX_Alps_Hybrid_MX-NoLED" -25 50 20 H I C CNN
 F2 "" -625 -25 60 H I C CNN
 F3 "" -625 -25 60 H I C CNN
 DRAW
@@ -78,11 +78,11 @@ X ROW 2 -50 -150 100 U 0 0 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Mechanical:MountingHole_Pad
+# Mechanical_MountingHole_Pad
 #
-DEF Mechanical:MountingHole_Pad MH 0 40 N N 1 F N
+DEF Mechanical_MountingHole_Pad MH 0 40 N N 1 F N
 F0 "MH" 0 250 50 H V C CNN
-F1 "Mechanical:MountingHole_Pad" 0 175 50 H V C CNN
+F1 "Mechanical_MountingHole_Pad" 0 175 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -94,11 +94,11 @@ X 1 1 0 -100 100 U 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# promicro:ProMicro
+# promicro_ProMicro
 #
-DEF promicro:ProMicro U 0 40 Y Y 1 F N
+DEF promicro_ProMicro U 0 40 Y Y 1 F N
 F0 "U" 0 950 60 H V C CNN
-F1 "promicro:ProMicro" 0 -550 60 H V C CNN
+F1 "promicro_ProMicro" 0 -550 60 H V C CNN
 F2 "" 100 -1050 60 H V C CNN
 F3 "" 100 -1050 60 H V C CNN
 DRAW
