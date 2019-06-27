@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:BlastersRev3-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -30,7 +31,7 @@ U 1 1 5D13C6D5
 P 5650 2200
 F 0 "SW1" H 5608 2473 50  0000 C CNN
 F 1 "Switch" H 5600 2250 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 5650 2200 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 5650 2200 50  0001 C CNN
 F 3 "" H 5650 2200 50  0001 C CNN
 	1    5650 2200
 	1    0    0    -1  
@@ -52,7 +53,7 @@ U 1 1 5D13E4D1
 P 6050 2200
 F 0 "SW5" H 6008 2473 50  0000 C CNN
 F 1 "Switch" H 6000 2250 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 6050 2200 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 6050 2200 50  0001 C CNN
 F 3 "" H 6050 2200 50  0001 C CNN
 	1    6050 2200
 	1    0    0    -1  
@@ -74,7 +75,7 @@ U 1 1 5D13F8A5
 P 6450 2200
 F 0 "SW9" H 6408 2473 50  0000 C CNN
 F 1 "Switch" H 6400 2250 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 6450 2200 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 6450 2200 50  0001 C CNN
 F 3 "" H 6450 2200 50  0001 C CNN
 	1    6450 2200
 	1    0    0    -1  
@@ -96,7 +97,7 @@ U 1 1 5D13F8B1
 P 6850 2200
 F 0 "SW13" H 6808 2473 50  0000 C CNN
 F 1 "Switch" H 6800 2250 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 6850 2200 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 6850 2200 50  0001 C CNN
 F 3 "" H 6850 2200 50  0001 C CNN
 	1    6850 2200
 	1    0    0    -1  
@@ -118,7 +119,7 @@ U 1 1 5D140719
 P 7250 2200
 F 0 "SW17" H 7208 2473 50  0000 C CNN
 F 1 "Switch" H 7200 2250 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 7250 2200 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 7250 2200 50  0001 C CNN
 F 3 "" H 7250 2200 50  0001 C CNN
 	1    7250 2200
 	1    0    0    -1  
@@ -140,7 +141,7 @@ U 1 1 5D140725
 P 7650 2200
 F 0 "SW21" H 7608 2473 50  0000 C CNN
 F 1 "Switch" H 7600 2250 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 7650 2200 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 7650 2200 50  0001 C CNN
 F 3 "" H 7650 2200 50  0001 C CNN
 	1    7650 2200
 	1    0    0    -1  
@@ -162,7 +163,7 @@ U 1 1 5D140D01
 P 8050 2200
 F 0 "SW26" H 8008 2473 50  0000 C CNN
 F 1 "Switch" H 8000 2250 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 8050 2200 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 8050 2200 50  0001 C CNN
 F 3 "" H 8050 2200 50  0001 C CNN
 	1    8050 2200
 	1    0    0    -1  
@@ -184,7 +185,7 @@ U 1 1 5D14FD27
 P 5650 2800
 F 0 "SW2" H 5608 3073 50  0000 C CNN
 F 1 "Switch" H 5600 2850 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 5650 2800 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 5650 2800 50  0001 C CNN
 F 3 "" H 5650 2800 50  0001 C CNN
 	1    5650 2800
 	1    0    0    -1  
@@ -206,7 +207,7 @@ U 1 1 5D14FD33
 P 6050 2800
 F 0 "SW6" H 6008 3073 50  0000 C CNN
 F 1 "Switch" H 6000 2850 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 6050 2800 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 6050 2800 50  0001 C CNN
 F 3 "" H 6050 2800 50  0001 C CNN
 	1    6050 2800
 	1    0    0    -1  
@@ -228,7 +229,7 @@ U 1 1 5D14FD3F
 P 6450 2800
 F 0 "SW10" H 6408 3073 50  0000 C CNN
 F 1 "Switch" H 6400 2850 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 6450 2800 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 6450 2800 50  0001 C CNN
 F 3 "" H 6450 2800 50  0001 C CNN
 	1    6450 2800
 	1    0    0    -1  
@@ -250,7 +251,7 @@ U 1 1 5D14FD4B
 P 6850 2800
 F 0 "SW14" H 6808 3073 50  0000 C CNN
 F 1 "Switch" H 6800 2850 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 6850 2800 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 6850 2800 50  0001 C CNN
 F 3 "" H 6850 2800 50  0001 C CNN
 	1    6850 2800
 	1    0    0    -1  
@@ -272,7 +273,7 @@ U 1 1 5D14FD57
 P 7250 2800
 F 0 "SW18" H 7208 3073 50  0000 C CNN
 F 1 "Switch" H 7200 2850 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 7250 2800 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 7250 2800 50  0001 C CNN
 F 3 "" H 7250 2800 50  0001 C CNN
 	1    7250 2800
 	1    0    0    -1  
@@ -294,7 +295,7 @@ U 1 1 5D14FD63
 P 7650 2800
 F 0 "SW22" H 7608 3073 50  0000 C CNN
 F 1 "Switch" H 7600 2850 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 7650 2800 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 7650 2800 50  0001 C CNN
 F 3 "" H 7650 2800 50  0001 C CNN
 	1    7650 2800
 	1    0    0    -1  
@@ -316,7 +317,7 @@ U 1 1 5D14FD6F
 P 8050 2800
 F 0 "SW27" H 8008 3073 50  0000 C CNN
 F 1 "Switch" H 8000 2850 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 8050 2800 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 8050 2800 50  0001 C CNN
 F 3 "" H 8050 2800 50  0001 C CNN
 	1    8050 2800
 	1    0    0    -1  
@@ -338,7 +339,7 @@ U 1 1 5D15B42F
 P 5650 3400
 F 0 "SW3" H 5608 3673 50  0000 C CNN
 F 1 "Switch" H 5600 3450 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 5650 3400 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 5650 3400 50  0001 C CNN
 F 3 "" H 5650 3400 50  0001 C CNN
 	1    5650 3400
 	1    0    0    -1  
@@ -360,7 +361,7 @@ U 1 1 5D15B43B
 P 6050 3400
 F 0 "SW7" H 6008 3673 50  0000 C CNN
 F 1 "Switch" H 6000 3450 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 6050 3400 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 6050 3400 50  0001 C CNN
 F 3 "" H 6050 3400 50  0001 C CNN
 	1    6050 3400
 	1    0    0    -1  
@@ -382,7 +383,7 @@ U 1 1 5D15B447
 P 6450 3400
 F 0 "SW11" H 6408 3673 50  0000 C CNN
 F 1 "Switch" H 6400 3450 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 6450 3400 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 6450 3400 50  0001 C CNN
 F 3 "" H 6450 3400 50  0001 C CNN
 	1    6450 3400
 	1    0    0    -1  
@@ -404,7 +405,7 @@ U 1 1 5D15B453
 P 6850 3400
 F 0 "SW15" H 6808 3673 50  0000 C CNN
 F 1 "Switch" H 6800 3450 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 6850 3400 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 6850 3400 50  0001 C CNN
 F 3 "" H 6850 3400 50  0001 C CNN
 	1    6850 3400
 	1    0    0    -1  
@@ -426,7 +427,7 @@ U 1 1 5D15B45F
 P 7250 3400
 F 0 "SW19" H 7208 3673 50  0000 C CNN
 F 1 "Switch" H 7200 3450 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 7250 3400 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 7250 3400 50  0001 C CNN
 F 3 "" H 7250 3400 50  0001 C CNN
 	1    7250 3400
 	1    0    0    -1  
@@ -448,7 +449,7 @@ U 1 1 5D15B46B
 P 7650 3400
 F 0 "SW23" H 7608 3673 50  0000 C CNN
 F 1 "Switch" H 7600 3450 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 7650 3400 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 7650 3400 50  0001 C CNN
 F 3 "" H 7650 3400 50  0001 C CNN
 	1    7650 3400
 	1    0    0    -1  
@@ -470,7 +471,7 @@ U 1 1 5D15B477
 P 8050 3400
 F 0 "SW28" H 8008 3673 50  0000 C CNN
 F 1 "Switch" H 8000 3450 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 8050 3400 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 8050 3400 50  0001 C CNN
 F 3 "" H 8050 3400 50  0001 C CNN
 	1    8050 3400
 	1    0    0    -1  
@@ -492,7 +493,7 @@ U 1 1 5D15B483
 P 5650 4000
 F 0 "SW4" H 5608 4273 50  0000 C CNN
 F 1 "Switch" H 5600 4050 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 5650 4000 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 5650 4000 50  0001 C CNN
 F 3 "" H 5650 4000 50  0001 C CNN
 	1    5650 4000
 	1    0    0    -1  
@@ -514,7 +515,7 @@ U 1 1 5D15B48F
 P 6050 4000
 F 0 "SW8" H 6008 4273 50  0000 C CNN
 F 1 "Switch" H 6000 4050 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 6050 4000 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 6050 4000 50  0001 C CNN
 F 3 "" H 6050 4000 50  0001 C CNN
 	1    6050 4000
 	1    0    0    -1  
@@ -536,7 +537,7 @@ U 1 1 5D15B49B
 P 6450 4000
 F 0 "SW12" H 6408 4273 50  0000 C CNN
 F 1 "Switch" H 6400 4050 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 6450 4000 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 6450 4000 50  0001 C CNN
 F 3 "" H 6450 4000 50  0001 C CNN
 	1    6450 4000
 	1    0    0    -1  
@@ -558,7 +559,7 @@ U 1 1 5D15B4A7
 P 6850 4000
 F 0 "SW16" H 6808 4273 50  0000 C CNN
 F 1 "Switch" H 6800 4050 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 6850 4000 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 6850 4000 50  0001 C CNN
 F 3 "" H 6850 4000 50  0001 C CNN
 	1    6850 4000
 	1    0    0    -1  
@@ -580,7 +581,7 @@ U 1 1 5D15B4B3
 P 7250 4000
 F 0 "SW20" H 7208 4273 50  0000 C CNN
 F 1 "Switch" H 7200 4050 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 7250 4000 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 7250 4000 50  0001 C CNN
 F 3 "" H 7250 4000 50  0001 C CNN
 	1    7250 4000
 	1    0    0    -1  
@@ -602,7 +603,7 @@ U 1 1 5D15B4BF
 P 7650 4000
 F 0 "SW24" H 7608 4273 50  0000 C CNN
 F 1 "Switch" H 7600 4050 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 7650 4000 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 7650 4000 50  0001 C CNN
 F 3 "" H 7650 4000 50  0001 C CNN
 	1    7650 4000
 	1    0    0    -1  
@@ -624,7 +625,7 @@ U 1 1 5D15B4CB
 P 8050 4000
 F 0 "SW29" H 8008 4273 50  0000 C CNN
 F 1 "Switch" H 8000 4050 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 8050 4000 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 8050 4000 50  0001 C CNN
 F 3 "" H 8050 4000 50  0001 C CNN
 	1    8050 4000
 	1    0    0    -1  
@@ -646,7 +647,7 @@ U 1 1 5D15CCC1
 P 7650 4600
 F 0 "SW25" H 7608 4873 50  0000 C CNN
 F 1 "Switch" H 7600 4650 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 7650 4600 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 7650 4600 50  0001 C CNN
 F 3 "" H 7650 4600 50  0001 C CNN
 	1    7650 4600
 	1    0    0    -1  
@@ -668,7 +669,7 @@ U 1 1 5D15CCCD
 P 8050 4600
 F 0 "SW30" H 8008 4873 50  0000 C CNN
 F 1 "Switch" H 8000 4650 50  0001 C CNN
-F 2 "KeyboardFootprints:MX_Switch_Symmetric" H 8050 4600 50  0001 C CNN
+F 2 "KeyboardFootprints:MX_Removable" H 8050 4600 50  0001 C CNN
 F 3 "" H 8050 4600 50  0001 C CNN
 	1    8050 4600
 	1    0    0    -1  
@@ -934,4 +935,6 @@ Text GLabel 7750 1800 0    50   Input ~ 0
 Col5
 Text GLabel 8150 1800 0    50   Input ~ 0
 Col6
+Text GLabel 2500 3250 0    50   Input ~ 0
+Col3
 $EndSCHEMATC
